@@ -1,0 +1,10 @@
+#!/usr/bin/expect
+	set backupfile [lindex $argv 0];
+	set source "/mnt/backup/backup/"
+	set destination "omc@10.10.27.75:/rncbackup/"
+	set timeout -1
+        spawn scp $source$backupfile $destination
+        set pass "Nokia123!"
+        expect {
+        Password: {send "$pass\r\n"; exp_continue}
+                  }

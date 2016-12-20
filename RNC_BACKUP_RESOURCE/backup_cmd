@@ -1,0 +1,9 @@
+start backup selective
+add backup config startup current
+add backup delivery current
+add backup database db-name DBRNWHSB
+add backup state
+add backup filesystem
+add backup plugin
+commit backup
+

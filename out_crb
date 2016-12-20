@@ -1,0 +1,132 @@
+filtered: RNC-173_partial_backup_20161217_0500.iso
+filtered: RNC-173_partial_backup_20161218_0500.iso
+filtered: RNC-173_partial_backup_20161219_0500.iso
+filtered: RNC-173_partial_backup_20161219_1046.iso
+filtered: RNC-173_partial_backup_20161219_1109.iso
+filtered: backup_20161217_0500.md5
+filtered: backup_20161218_0500.md5
+filtered: backup_20161219_0500.md5
+Removing older backupfile :RNC-173_partial_backup_20161216_0500.iso
+(0, '')
+Removing older backupfile :backup_20161216_0500.md5
+(0, '')
+Removing older backupfile :tmp
+(256, "rm: cannot remove `/mnt/backup/backup/tmp': Is a directory")
+######################################################################
+Tue Dec 20 05:00:04 2016
+######################################################################
+ACTIVE CFPU IS CFPU-0
+Creating .iso file, Please wait
+######################################################################
+0
+CFPU-0@RNC-173                                    [2016-12-20 05:00:04 +0600]
+CFPU-0@RNC-173                                    [2016-12-20 05:00:05 +0600]
+CFPU-0@RNC-173                                    [2016-12-20 05:00:06 +0600]
+CFPU-0@RNC-173                                    [2016-12-20 05:00:06 +0600]
+CFPU-0@RNC-173                                    [2016-12-20 05:00:06 +0600]
+CFPU-0@RNC-173                                    [2016-12-20 05:00:06 +0600]
+CFPU-0@RNC-173                                    [2016-12-20 05:00:06 +0600]
+CFPU-0@RNC-173                                    [2016-12-20 05:00:06 +0600]
+fsbackup: INFO: partial backup started. 
+fsbackup: INFO: Backing up commissioning tools: SS_FEWS. 
+fsbackup: INFO: Backing up commissioning tools: SS_SWMan. 
+fsbackup: INFO: Backing up commissioning tools: SS_FSetup. 
+fsbackup: INFO: backing up sysimg-R_QNCB.14.26.4_39.3.WR.mips.rmp-mips64-std 
+fsbackup: INFO: backing up sysimg-R_QNCB.14.26.4_39.3.WR.mips.rmp-mips64-wnd 
+fsbackup: INFO: backing up config-R_QNCB.14.26.4_39.3.WR.mips.rmp-INITIAL 
+fsbackup: INFO: backing up config-R_QNCB.14.26.4_39.3.WR.mips.rmp-INITIAL 
+fsbackup: INFO: backing up config-R_QNCB.14.26.4_39.3.WR.mips.rmp-FB20160411032710 
+fsbackup: INFO: backing up config-R_QNCB.14.26.4_39.3.WR.mips.rmp-FB20160411032710 
+fsbackup: INFO: backing up config-R_QNCB.14.26.4_39.3.WR.mips.rmp-FB20161214060003 
+fsbackup: INFO: backing up config-R_QNCB.14.26.4_39.3.WR.mips.rmp-FB20161214060003 
+fsbackup: INFO: backing up config-R_QNCB.14.26.4_39.3.WR.mips.rmp-FB20161215060003 
+fsbackup: INFO: backing up config-R_QNCB.14.26.4_39.3.WR.mips.rmp-FB20161215060003 
+fsbackup: INFO: backing up config-R_QNCB.14.26.4_39.3.WR.mips.rmp-FB20161217060002 
+fsbackup: INFO: backing up config-R_QNCB.14.26.4_39.3.WR.mips.rmp-FB20161217060002 
+fsbackup: INFO: backing up config-R_QNCB.14.26.4_39.3.WR.mips.rmp-FB20161218060003 
+fsbackup: INFO: backing up config-R_QNCB.14.26.4_39.3.WR.mips.rmp-FB20161218060003 
+fsbackup: INFO: backing up config-R_QNCB.14.26.4_39.3.WR.mips.rmp-INITIAL 
+fsbackup: INFO: backing up config-R_QNCB.14.26.4_39.3.WR.mips.rmp-INITIAL 
+fsbackup: INFO: backing up config-R_QNCB.14.26.4_39.3.WR.mips.rmp-FB20160922001709 
+fsbackup: INFO: backing up config-R_QNCB.14.26.4_39.3.WR.mips.rmp-FB20160922001709 
+fsbackup: INFO: backing up config-R_QNCB.14.26.4_39.3.WR.mips.rmp-FB20161004011405 
+fsbackup: INFO: backing up config-R_QNCB.14.26.4_39.3.WR.mips.rmp-FB20161004011405 
+fsbackup: INFO: backing up config-R_QNCB.14.26.4_39.3.WR.mips.rmp-FB20161017235659 
+fsbackup: INFO: backing up config-R_QNCB.14.26.4_39.3.WR.mips.rmp-FB20161017235659 
+fsbackup: INFO: backing up config-R_QNCB.14.26.4_39.3.WR.mips.rmp-FB20160929001008 
+fsbackup: INFO: backing up config-R_QNCB.14.26.4_39.3.WR.mips.rmp-FB20160929001008 
+fsbackup: INFO: backing up config-R_QNCB.14.26.4_39.3.WR.mips.rmp-FB20161219060002 
+fsbackup: INFO: backing up config-R_QNCB.14.26.4_39.3.WR.mips.rmp-FB20161219060002 
+fsbackup: INFO: backing up config-R_QNCB.14.26.4_39.3.WR.mips.rmp-FB20160808004814 
+fsbackup: INFO: backing up config-R_QNCB.14.26.4_39.3.WR.mips.rmp-FB20160808004814 
+fsbackup: INFO: backing up config-R_QNCB.14.26.4_39.3.WR.mips.rmp-FB20161213060003 
+fsbackup: INFO: backing up config-R_QNCB.14.26.4_39.3.WR.mips.rmp-FB20161213060003 
+fsbackup: INFO: backing up config-R_QNCB.14.26.4_39.3.WR.mips.rmp-FB20161216060002 
+fsbackup: INFO: backing up config-R_QNCB.14.26.4_39.3.WR.mips.rmp-FB20161216060002 
+fsbackup: INFO: backing up mstate 
+fsbackup: INFO: synchronizing /mnt/mstate 
+fsbackup: INFO: Connectivity to CFPU-1 is successful. 
+fsbackup: INFO: Synchronization of CFPU-1's state volume to /mnt/mstate. Try#1... 
+fsbackup: INFO: Synchronization is Successful. 
+fsbackup: INFO: Connectivity to CFPU-0 is successful. 
+fsbackup: INFO: Synchronization of CFPU-0's state volume to /mnt/mstate. Try#1... 
+fsbackup: INFO: Synchronization is Successful. 
+fsbackup: INFO: backing up DBRNWHSB 
+RG:QNJTUKIA
+read ldap values
+RG:QNDBRNW
+read ldap values
+*****************************
+** DATABASE BACKUP STARTED **
+*****************************
+Tue Dec 20 05:13:26 BDT 2016
+Disk database(s) = DBRNW DBRNWHSB 
+Disk database(s) = DBRNW DBRNWHSB 
+RG:QNDBRNW
+DATABASE DBRNWHSB BACKUP STARTED
+RG:QNDBRNW
+active_node = CFPU-0
+read ldap values
+Postgres Backup: Check running postgres server
+Postgres Backup: Check archive configuration parameter
+check_archive_mode
+Postgres Backup Filename = /mnt/backup/backup/tmp/fsbackup.wxqa7K.20161220T0500//backup_DBRNWHSB_2016-12-20T051327.tar.gz
+Postgres Backup: pg_switch_xlog and pg_start_backup
+pg_switch_xlog and pg_start_backup
+Postgres Backup: generate backup tar archive
+Postgres Backup: tar directory /mnt/DBRNWHSB
+Postgres Backup: pg_stop_backup
+pg_stop_backup
+Postgres Backup: POSTGRES DATABASE DBRNWHSB BACKUP ENDED SUCCESSFULLY on Tue Dec 20 05:13:39 BDT 2016
+fsbackup: INFO: backing up /var/opt/Nokia/SS_ILOMU 
+fsbackup: INFO: Backup of filesystem is successful. 
+fsbackup: INFO: backing up /var/opt/Nokia/SS_CLM 
+fsbackup: INFO: Backup of filesystem is successful. 
+fsbackup: INFO: backing up /opt/Nokia/SS_Backup/etc/backup.d/bu_home.sh 
+fsbackup: INFO: backing up /opt/Nokia/SS_Backup/etc/backup.d/bu_alarminfo_config.sh 
+fsbackup: INFO: backing up /opt/Nokia/SS_Backup/etc/backup.d/bu_alarminfo_full.sh 
+fsbackup: INFO: backing up /opt/Nokia/SS_Backup/etc/backup.d/bu_ldapuser.sh 
+fsbackup: INFO: MD5SUM: 258615a041f4a827fba8942d8a2aa30f /backup/RNC-173_partial_backup_20161220_0500.iso 
+fsbackup: INFO: created backup file /backup/RNC-173_partial_backup_20161220_0500.iso with size 3465906176B 
+fsbackup: INFO: created log file /share/RNC-173_partial_backup_20161220_0500.log 
+fsbackup: INFO: partial backup completed successfully with exit status 0 
+
+SUMMARY OF COMMANDS BATCH FILE EXECUTION:
+Executed commands :	8
+Failed commands   :	0
+######################################################################
+['/mnt/backup/backup/RNC-173_partial_backup_20161220_0500.iso']
+Generating backup_20161220_0500.md5
+Tue Dec 20 05:16:38 2016
+0
+md5sum generated
+
+md5sum generated
+Tue Dec 20 05:17:07 2016
+Transfering backup_20161220_0500.md5 file to 10.10.27.75 This may take upto 30 mins
+Tue Dec 20 05:17:07 2016
+backup_20161220_0500.md5 Transferred
+Tue Dec 20 05:17:08 2016
+Transfering /mnt/backup/backup/RNC-173_partial_backup_20161220_0500.iso file to 10.10.27.75 This may take upto 30 mins
+/mnt/backup/backup/RNC-173_partial_backup_20161220_0500.iso Transferred
+Tue Dec 20 06:48:20 2016

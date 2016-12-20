@@ -1,0 +1,7 @@
+script_dir =C:\\Python27\\
+resource_dir =/root/tapon/RNC_BACKUP_RESOURCE/
+backup_dir =/mnt/backup/backup/
+remote_host =10.10.91.3
+remote_user =backup
+remote_pass =backup
+remote_backup_dir =export/local/OMC/home/backup/rnkl01/

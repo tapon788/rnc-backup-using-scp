@@ -1,0 +1,10 @@
+#!/usr/bin/expect
+	set backupfile [lindex $argv 0];
+	set source "/mnt/backup/backup/"
+	set destination "backup@10.10.91.3:/export/local/OMC/home/backup/rnkl01/"
+	set timeout -1
+        spawn scp $source$backupfile $destination
+        set pass "backup"
+        expect {
+        Password: {send "$pass\r\n"; exp_continue}
+                  }
